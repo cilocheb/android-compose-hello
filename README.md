@@ -5,7 +5,7 @@
 
 ## Скриншоты
 
-<img alt="Главный экран приложения" src="C:\Users\Asus Game\AndroidStudioProjects\HelloCompose\screenshots\screen1.jpg"/>
+![Главный экран приложения](screenshots/screen1.jpg)
 
 ## Технологии
 - **Язык:** Kotlin
